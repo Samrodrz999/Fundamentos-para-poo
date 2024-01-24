@@ -1,0 +1,13 @@
+//practica no 1 grupo 5i
+// objetivo: mi primer programa
+// integrantes: cristhian brandon moreno sanchez, samuel rodrigez 
+//christian leonardo hernandez
+
+public class Main {
+    public Main() {
+    }
+
+    public static void main(String[] args) {
+        System.out.printf("Hola tonotos >:v");
+    }
+}
